@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "J Jeshwanth Reddy"
 description              : "My work"
-url                      : https://jeshwanthreddy13.github.io
+url                      : "https://jeshwanthreddy13.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : jeshwanthreddy13/jeshwanthreddy13.github.io
+repository               : "jeshwanthreddy13/jeshwanthreddy13.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "J Jeshwanth Reddy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "An avid coder in C++ and python"
+  location         : "Bengaluru, Karnataka"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "jeshwanth7899@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
